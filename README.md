@@ -7,6 +7,7 @@ Book-Store created with Spring-Boot & React which supports:
 * Password Encryption
 * Priveleges (Admin/Owner/User)
 * Adding, modifying, and removing from Cart
+* Reviews/Ratings
 * Checkout
 * Billing
 
