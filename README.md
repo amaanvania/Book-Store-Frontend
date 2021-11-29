@@ -15,10 +15,7 @@ Book-Store created with Spring-Boot & React which supports:
 
 Back-end implementation can be found [here](https://github.com/amaanvania/Book-Store)
 
-# Demonstration 
-https://user-images.githubusercontent.com/35306464/118228843-dfcfee80-b458-11eb-955e-b2660892a66c.mp4
-
-# Screenshots
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/35306464/118229084-5e2c9080-b459-11eb-85dd-64e565534813.png)
 
